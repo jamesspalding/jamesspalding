@@ -3,7 +3,7 @@
 ### <ins> Apps </ins>
 
 * [LENSS Dark Sky Application](https://github.com/jamesspalding/LENSS) :  App built using RShiny and Python to create interactive graphs for [GLAS Education.](https://glaseducation.org/lenss/)
-* [Playlist Generator](https://jamesspalding.github.io/playlist-generator/) : Function that utilizes multiple regression to recommend songs on Spotify.
+* [Playlist Generator](https://jamesspalding.github.io/playlist-generator/) : R function that utilizes multiple regression to recommend songs on Spotify.
 
 ### <ins> Reports </ins>
 * [Joint Rotation Report](https://jamesspalding.github.io/STAT547/) : Report on average misorientation angles in the 3D rotation matrices of humans and various species of apes.
