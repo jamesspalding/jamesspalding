@@ -2,7 +2,7 @@
 
 ### <ins> Apps </ins>
 
-* [LENSS Dark Sky Application](https://github.com/jamesspalding/LENSS) :  App built using RShiny and Python to create presentable graphs for [GLAS Education.](https://glaseducation.org/lenss/)
+* [LENSS Dark Sky Application](https://github.com/jamesspalding/LENSS) :  App built using RShiny and Python to create interactive graphs for [GLAS Education.](https://glaseducation.org/lenss/)
 * [Playlist Generator](https://jamesspalding.github.io/playlist-generator/) : Function that utilizes multiple regression to recommend songs on Spotify.
 
 ### <ins> Reports </ins>
