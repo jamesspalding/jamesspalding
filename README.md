@@ -1,4 +1,4 @@
-## Projects
+# Projects
 
 ### <ins> Apps </ins>
 
