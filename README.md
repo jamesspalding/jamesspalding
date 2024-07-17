@@ -2,7 +2,7 @@
 
 ### <ins> Apps </ins>
 
-* [LENSS Dark Sky Application](lenss.acsq.me) :  Shiny app built using R and Python to create interactive graphs for [GLAS Education.](https://glaseducation.org/lenss/)
+* [LENSS Dark Sky Application](https://lenss.acsq.me/) :  Shiny app built using R and Python to create interactive graphs for [GLAS Education.](https://glaseducation.org/lenss/)
 * [Playlist Generator](https://jamesspalding.github.io/playlist-generator/) : R function that utilizes multiple regression to recommend songs on Spotify.
 
 ### <ins> Reports </ins>
